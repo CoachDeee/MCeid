@@ -3,3 +3,4 @@ logs/
 versions/
 eula.txt
 server.properties
+sever.jar
