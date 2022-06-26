@@ -800,6 +800,7 @@
       "minecraft:witch": "2022-06-22 20:29:19 -0700",
       "minecraft:piglin": "2022-06-23 21:41:21 -0700",
       "minecraft:enderman": "2022-06-18 13:19:04 -0700",
+      "minecraft:silverfish": "2022-06-25 17:12:15 -0700",
       "minecraft:endermite": "2022-06-25 11:19:40 -0700",
       "minecraft:zombie": "2022-06-17 21:26:13 -0700",
       "minecraft:drowned": "2022-06-18 13:33:51 -0700",
@@ -2074,6 +2075,12 @@
   "minecraft:adventure/hero_of_the_village": {
     "criteria": {
       "hero_of_the_village": "2022-06-20 12:05:30 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2022-06-25 23:15:51 -0700"
     },
     "done": true
   },
@@ -3389,6 +3396,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2022-06-18 09:59:12 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2022-06-25 17:31:24 -0700"
     },
     "done": true
   },
