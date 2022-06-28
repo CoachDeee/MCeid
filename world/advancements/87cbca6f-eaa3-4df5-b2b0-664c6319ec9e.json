@@ -3444,6 +3444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-06-28 06:08:05 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-06-17 21:54:45 -0700"
@@ -3669,6 +3675,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
     "criteria": {
       "has_red_dye": "2022-06-19 07:29:43 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2022-06-28 06:07:52 -0700"
     },
     "done": true
   },
