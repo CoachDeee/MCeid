@@ -858,6 +858,7 @@
       "minecraft:magma_cube": "2022-06-20 09:12:12 -0700",
       "minecraft:spider": "2022-06-17 22:33:45 -0700",
       "minecraft:creeper": "2022-06-18 12:53:03 -0700",
+      "minecraft:phantom": "2022-07-02 12:43:05 -0700",
       "minecraft:zombified_piglin": "2022-06-20 07:25:37 -0700",
       "minecraft:witch": "2022-06-22 20:29:19 -0700",
       "minecraft:wither_skeleton": "2022-06-26 20:03:28 -0700",
@@ -1156,6 +1157,12 @@
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-18 16:00:03 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2022-07-02 12:56:22 -0700"
     },
     "done": true
   },
@@ -2065,6 +2072,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2022-06-17 22:18:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2022-07-02 12:40:45 -0700"
     },
     "done": true
   },
@@ -3480,6 +3493,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2022-06-23 14:02:25 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2022-07-02 12:40:45 -0700"
     },
     "done": true
   },
