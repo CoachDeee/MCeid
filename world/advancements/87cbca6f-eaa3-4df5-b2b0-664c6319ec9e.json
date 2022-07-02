@@ -1243,6 +1243,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-07-01 22:45:06 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-06-18 16:00:03 -0700"
@@ -2426,6 +2432,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2022-06-18 12:53:05 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-07-01 22:39:22 -0700"
     },
     "done": true
   },

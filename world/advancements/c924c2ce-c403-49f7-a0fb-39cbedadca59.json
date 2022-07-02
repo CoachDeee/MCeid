@@ -914,6 +914,7 @@
       "minecraft:spider": "2022-06-17 23:18:56 -0700",
       "minecraft:piglin_brute": "2022-06-19 19:00:57 -0700",
       "minecraft:creeper": "2022-06-17 23:15:21 -0700",
+      "minecraft:wither": "2022-07-01 22:40:00 -0700",
       "minecraft:slime": "2022-06-20 23:00:07 -0700",
       "minecraft:phantom": "2022-06-18 13:48:51 -0700",
       "minecraft:zombified_piglin": "2022-06-20 13:14:35 -0700",
@@ -1341,6 +1342,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2022-06-17 22:58:53 -0700"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2022-07-01 22:45:05 -0700"
     },
     "done": true
   },
@@ -2615,6 +2622,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2022-07-01 22:39:22 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2022-06-18 15:16:08 -0700"
@@ -2671,6 +2684,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2022-07-01 22:51:35 -0700",
       "chicken": "2022-06-17 23:06:45 -0700",
       "cooked_mutton": "2022-06-18 00:27:43 -0700",
       "cooked_beef": "2022-06-17 23:18:05 -0700",
@@ -2905,6 +2919,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-07-01 22:39:17 -0700"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2022-06-19 18:00:28 -0700"
@@ -2994,6 +3014,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2022-06-17 22:58:32 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2022-07-01 22:40:02 -0700"
     },
     "done": true
   },
@@ -3822,6 +3848,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2022-06-22 00:08:21 -0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2022-07-01 22:39:17 -0700"
     },
     "done": true
   },
